@@ -14,7 +14,8 @@ When looking for a data visualization I first started looking at the NYT and the
 ## Step 2:The Process
 Once I decided on this data visualization to critique and redo, I took the data out of the chart and put it into an excel file for easy upload into Tableau and Flourish. Additionally, I added a calculated for the percent of the total amount the type of service was from the total  medicaid payments (in Billions) for fiscal year 2014. I thought this would better convey what the chart was trying to show, not just as slices of pie, but as vast amounts of money taken from the overall billions of dollars going towards medical services. Below is a screenshot of the data. 
 
-Insert it here 
+
+![Excel Data](https://user-images.githubusercontent.com/73552628/99428916-483c7980-28d5-11eb-80f7-8603c53c185b.png)
 
 Additionally, I started thinking how I wanted the wireframe to look. I played around in both Basalmiq and Infogram just to get a better idea of what I wanted to do for step 3. 
 
