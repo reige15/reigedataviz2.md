@@ -40,8 +40,7 @@ Which I liked but felt like it was a little chaotic and did not accomplish what 
 
 Finally I moved over to Tableau and played around with a few things, but ultimately decided on a small dashboard/wireframe pictured below for my final version. Within my final I found the chart of data to actually add confusion, and ended up taking it out at the last minute becuase of the confusion and contrasting colors as you can see here: 
 
-
-##Inset heere
+![Chart with Contrasting Colors](https://user-images.githubusercontent.com/73552628/99438115-5a241980-28e1-11eb-978a-133b5d32065e.png)
 
 ## Final Version 
 
