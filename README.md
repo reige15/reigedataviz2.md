@@ -24,6 +24,7 @@ Additionally, I started thinking how I wanted the wireframe to look. I played ar
 ## Step 3:Summary of my Wireframe and Peer Feedback
 While playing around in Basalmiq and Infogram I came up with two similar charts, one with bars and a chart below and one with just a chart and an area to call out main topics. Below are the pictures of both: 
 
+![Basalmiq](https://user-images.githubusercontent.com/73552628/99429391-f21c0600-28d5-11eb-95ca-89474b6ac698.png)
 
 
 ## Final Version 
