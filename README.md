@@ -7,6 +7,7 @@ Verify your public portfolio page is loading correctly and you are satisfied wit
 
 
 
+![Original Chart](<img width="435" alt="Screen Shot 2020-11-16 at 2 49 59 PM" src="https://user-images.githubusercontent.com/73552628/99422536-a9f8e580-28cd-11eb-9c03-374c9db5e90c.png">)
 
 
 
