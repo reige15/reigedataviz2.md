@@ -47,6 +47,12 @@ Finally I moved over to Tableau and played around with a few things, but ultimat
 
 ![Final](https://user-images.githubusercontent.com/73552628/99435786-a0c44480-28de-11eb-9adc-65757d2e7f56.png)
 
-I could not figure out how to get the direct dashboard onto github, but I thought this showed the proportions broken out better than the orginal and was more colorful in meaningful ways. I decided on this data visualization, because it had the ability to show a few things all at once, unlike the pie chart. I did not have to worry about doing the math for the percentages, as it was done for me and for the audience. Additioanlly, I felt the colors here were less contrasting than in the original pie chart. I tried really hard to make the chart more appealing and less like an old school report. I wanted to try and keep the reader interested and have big information be shown at first glance, but also have insights shown the third or fourth time a viewer looked at it. Throughout this process, I was also able to learn the strenghts and weakness of each tool which was nice for future use. 
+
+
+Why I selected this dataviz vs the original? 
+
+I could not figure out how to get the direct dashboard onto github, but I thought this showed the proportions broken out better than the orginal and was more colorful in meaningful ways. I decided on this data visualization, because it had the ability to show a few things all at once, unlike the pie chart. I did not have to worry about doing the math for the percentages, as it was done for me and for the audience. Additionally, I felt the colors here were less contrasting than in the original pie chart. I tried really hard to make the chart more appealing and less like an old school report. I wanted to try and keep the reader interested and have big information be shown at first glance, but also have insights shown the third or fourth time a viewer looked at it. Throughout this process, I was also able to learn the strenghts and weakness of each tool which was nice for future use. 
+
+
 
 [Back to Main Page](/Reige-Portfolio/)
