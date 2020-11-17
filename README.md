@@ -26,7 +26,19 @@ While playing around in Basalmiq and Infogram I came up with two similar charts,
 
 ![Basalmiq](https://user-images.githubusercontent.com/73552628/99429391-f21c0600-28d5-11eb-95ca-89474b6ac698.png)
 
+![Infogram](https://user-images.githubusercontent.com/73552628/99433667-cc91fb00-28db-11eb-8c20-2a12c45dfb41.png)
+
+After showing and talking through my ideas with both Julie and Nick I was able to see that the idea of a histogram with the addition of a chart would most likely be best to show the information best. We also discussed adding in colors, as with Basalmiq there are no colors.
+
+Then I began to try and build out what I wanted in both Flourish and Tableau. 
+First I began in Tableau and got dicouraged, so I moved over to Flourish. I wanted to add a chart to the graph as well and could not figure out in flourish, which left me with just this: 
+<div class="flourish-embed" data-src="story/642626"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Which I liked but felt like it was a little chaotic and did not accomplish what I had set out in the wireframe originally. 
+
+Finally I moved over to Tableau and played around with a few things, but ultimately decided on a small dashboard/wireframe pictured below for my final version. 
+
 
 ## Final Version 
-<div class="flourish-embed" data-src="story/642626"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 [Back to Main Page](/Reige-Portfolio/)
