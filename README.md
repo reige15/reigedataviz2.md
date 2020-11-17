@@ -7,7 +7,7 @@ Verify your public portfolio page is loading correctly and you are satisfied wit
 
 
 
-![Original Chart](https://user-images.githubusercontent.com/73552628/99422536-a9f8e580-28cd-11eb-9c03-374c9db5e90c.png)
+![Original Chart](https://user-images.githubusercontent.com/73552628/99423371-7c606c00-28ce-11eb-9341-97b04169f2a4.png)
 
 
 
