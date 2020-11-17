@@ -41,4 +41,9 @@ Finally I moved over to Tableau and played around with a few things, but ultimat
 
 ## Final Version 
 
+
+![Final](https://user-images.githubusercontent.com/73552628/99435786-a0c44480-28de-11eb-9adc-65757d2e7f56.png)
+
+I could not figure out how to get the direct dashboard onto github, but I thought this showed the proportions broken out better than the orginal and was more colorful in meaningful ways. 
+
 [Back to Main Page](/Reige-Portfolio/)
