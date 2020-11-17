@@ -5,7 +5,7 @@ At a minimum, this portion of your portfolio should all the items mentioned in t
 Verify your public portfolio page is loading correctly and you are satisfied with your project.  Post your publicly-accessible link to the portfolio here when you're ready, and you're done!
 
 
-![ScreenShot](Screen Shot 2020-11-16 at 2.49.59 PM.jpg)
+
 
 
 
